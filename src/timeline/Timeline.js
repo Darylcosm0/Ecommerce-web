@@ -18,21 +18,21 @@ function Timeline() {
       postImage:
         "	https://i.pinimg.com/564x/91/fa/38/91fa386e212e8e8ded662dfd09733eaf.jpg",
       likes: 432,
-      timestamp: "2d",
+      timestamp: "6d",
     },
     {
       user: "Rickmorty",
       postImage:
         "https://i.pinimg.com/564x/66/49/64/66496401d7cd47f473afcd95861c098e.jpg",
       likes: 840,
-      timestamp: "2d",
+      timestamp: "3w",
     },
     {
       user: "pathfinder",
       postImage:
         "https://i.pinimg.com/564x/29/22/ed/2922edb642f175aa608b938fa04d245b.jpg",
       likes: 614,
-      timestamp: "2d",
+      timestamp: "4w",
     },
   ]);
 
