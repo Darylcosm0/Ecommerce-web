@@ -7,9 +7,9 @@ import {Provider} from "redux"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- 
+ <provider store=s{store}>
     <App />
-  
+    </provider>
 );
 
 // If you want to start measuring performance in your app, pass a function
