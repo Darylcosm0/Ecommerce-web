@@ -12,14 +12,14 @@ In order for you to use the content on this repo ensure you have the following:
 A computer that runs on either of the following; (Windows 7+, Linux, Mac OS) nodejs 9.0+ Some bit of patience for your own sanity. Installation To use this repo on your machine requires some simple steps.
 
 
+### Installation
 
-    # installation
-    To use this repo on your machine requires some simple steps
+Follow these steps to set up this repository on your machine:
 
-    # steps to follow
-    Open terminal/comand line iterface on your computer
+1. Open your terminal/command line interface on your computer.
 
-    clone the repo by using the following:
+2. Clone the repository using the following command:
+
 
 - git clone:
 
